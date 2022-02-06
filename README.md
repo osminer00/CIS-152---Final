@@ -1,0 +1,1 @@
+This program was created as a final project for CIS 152-  Data Structres. It includes a gui and program to store information about weekly exercises. The program essentially works as a weekly exercise calender to keep track of a workout routine.
